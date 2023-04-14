@@ -8,6 +8,7 @@ Overview: This tool createa a text file name cpuinfo-"Hostname".txt with all the
 - IP Configution 
 - ARP Table 
 - Routing Table 
+- Running Process 
 - WIFI networks 
 - Firewall Status
 - Open Ports 
