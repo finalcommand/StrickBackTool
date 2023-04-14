@@ -22,3 +22,7 @@ Overview: This tool createa a text file name cpuinfo-"Hostname".txt with all the
 - System Managed Accounts Group
 - Users 
 - Reg Key export 
+
+## Example
+
+![alt text](https://github.com/finalcommand/StrickBackTool/blob/main/example.png)
