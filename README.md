@@ -21,3 +21,4 @@ Overview: This tool createa a text file name cpuinfo-"Hostname".txt with all the
 - Remote Desktop Users
 - System Managed Accounts Group
 - Users 
+- Reg Key export 
