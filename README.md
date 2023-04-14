@@ -1,9 +1,11 @@
 # StrickBackTool
 
-#Features 
+Overview: This tool createa a text file name cpuinfo-"Hostname".txt with all the computer infomation in a flat text file. You can use the text file to put the data in other systems.
+
+# Features 
 
 - Pulls System Infomatioon 
-- IP Configution \
+- IP Configution 
 - ARP Table 
 - Routing Table 
 - WIFI networks 
